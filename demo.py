@@ -50,6 +50,6 @@ def draw():
     pyxel.cls(0)
 
     # vaisseau (carre 8x8)
-    pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
+    pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 12)
 
 pyxel.run(update, draw)
