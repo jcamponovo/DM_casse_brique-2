@@ -1,3 +1,7 @@
+# j'ai essayer de faire plus mais je n'y arrive pas, j'ai fait de mon mieux :)
+
+
+
 import pyxel, random
 # on importe les biblioteque pyxel et random
 pyxel.init(128, 128, title="dm casse brique")
