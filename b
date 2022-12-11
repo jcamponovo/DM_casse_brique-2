@@ -9,7 +9,7 @@ import random
 # taille de la brique16*8*5 rangee donc 40 brique
 # ne pas modifier
 pyxel.init(128, 128, title="DM_casse_brique")
-pyxel.load("briques+plateau.pyxres")
+pyxel.load("plateau+briques.pyxres")
 
 plateau_x = 52
 plateau_y = 120
